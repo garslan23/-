@@ -44,8 +44,8 @@ for i in range(resim.size[0]):
             alan2.putpixel((i*2+1,j*2),renk2[sayi][2])
             alan2.putpixel((i*2+1,j*2+1),renk2[sayi][3])
             
-alan1.save('a.png')
-alan2.save('b.png')
+alan1.save('pay1.png')
+alan2.save('pay2.png')
 alan1.show()
 alan2.show()
 
