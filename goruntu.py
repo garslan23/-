@@ -8,8 +8,8 @@ Created on Sat Jun 30 16:51:24 2018
 from PIL import Image
 
 
-resim1=Image.open('a.png')
-resim2=Image.open('b.png')
+resim1=Image.open('pay1.png')
+resim2=Image.open('pay2.png')
 
 ol_resim=Image.new('1',resim1.size)
 
